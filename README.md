@@ -1,2 +1,4 @@
-# nodeStaticWs
-node static web service
+# nodeStaticWs  
+nodeJs static web server
+ 
+## 使用方法
