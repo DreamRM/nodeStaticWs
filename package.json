@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-static-web-server",
+  "version": "1.0.0",
+  "description": "nodeJs static web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreamRM/nodeStaticWs.git"
+  },
+  "author": "steven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DreamRM/nodeStaticWs/issues"
+  },
+  "homepage": "https://github.com/DreamRM/nodeStaticWs#readme",
+  "devDependencies": {
+    "chalk": "^3.0.0",
+    "eslint": "^6.8.0"
+  }
+}
